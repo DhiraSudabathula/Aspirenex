@@ -1,5 +1,5 @@
 -  Hi, I’m @DhiraSudabathula
 -  I am a Front-end web developer
--  Future SDE
+-  Future Data Anlayst
 -  I’m currently learning programming languages 
 -  You can reach me on linkedIn:www.linkedin.com/in/dhira-sudabathula
